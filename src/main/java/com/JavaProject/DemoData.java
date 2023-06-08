@@ -9,4 +9,8 @@ public class DemoData {
     private String title;
     private String body;
 
+
+    public static String ok(String string) {
+        return string;
+    }
 }
